@@ -14,5 +14,4 @@ FROM mcr.microsoft.com/dotnet/core/aspnet:2.2
 WORKDIR /app
 COPY --from=build-env /app/out .
 EXPOSE 14242
-ENTRYPOINT ["dotnet", "GameServer.dll"]
-CMD ["-t"]
+ENTRYPOINT [ "dotnet", "GameServer.dll"]
