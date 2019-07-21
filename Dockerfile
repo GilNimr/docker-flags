@@ -15,3 +15,4 @@ WORKDIR /app
 COPY --from=build-env /app/out .
 EXPOSE 14242
 ENTRYPOINT ["dotnet", "GameServer.dll"]
+CMD ["-t"]
