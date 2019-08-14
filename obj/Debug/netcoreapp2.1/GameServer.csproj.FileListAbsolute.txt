@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\docker-flags\obj\Debug\netcoreapp2.1\GameServer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\docker-flags\obj\Debug\netcoreapp2.1\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\docker-flags\obj\Debug\netcoreapp2.1\GameServer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\docker-flags\obj\Debug\netcoreapp2.1\GameServer.AssemblyInfo.cs
+C:\Users\User\Desktop\docker-flags\bin\Debug\netcoreapp2.1\GameServer.deps.json
+C:\Users\User\Desktop\docker-flags\bin\Debug\netcoreapp2.1\GameServer.runtimeconfig.json
+C:\Users\User\Desktop\docker-flags\bin\Debug\netcoreapp2.1\GameServer.runtimeconfig.dev.json
+C:\Users\User\Desktop\docker-flags\bin\Debug\netcoreapp2.1\GameServer.dll
+C:\Users\User\Desktop\docker-flags\bin\Debug\netcoreapp2.1\GameServer.pdb
+C:\Users\User\Desktop\docker-flags\bin\Debug\netcoreapp2.1\Lidgren.Network.dll
+C:\Users\User\Desktop\docker-flags\bin\Debug\netcoreapp2.1\MonoGame.Framework.dll
+C:\Users\User\Desktop\docker-flags\bin\Debug\netcoreapp2.1\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\docker-flags\bin\Debug\netcoreapp2.1\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\docker-flags\obj\Debug\netcoreapp2.1\GameServer.csproj.CopyComplete
+C:\Users\User\Desktop\docker-flags\obj\Debug\netcoreapp2.1\GameServer.dll
+C:\Users\User\Desktop\docker-flags\obj\Debug\netcoreapp2.1\GameServer.pdb
