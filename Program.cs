@@ -44,7 +44,7 @@ namespace GameServer
 
 
             // run until escape is pressed
-            while (!Console.KeyAvailable || Console.ReadKey().Key != ConsoleKey.Escape)
+            while (true)
             {
 
                 NetIncomingMessage msg;
